@@ -37,10 +37,6 @@ Would like to run this project locally? Open terminal and follow these steps:
     ```
 2. Install NPM packages
     ```sh
-    npm i
-    ```
-    or
-    ```sh
     npm install
     ```
 3. Run the server
