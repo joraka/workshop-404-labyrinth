@@ -1,0 +1,16 @@
+{
+  "name": "workshop-404-labyrinth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
